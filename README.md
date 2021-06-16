@@ -30,7 +30,7 @@ L’ESIEA souhaite se doter d’un outil 100% en ligne (syllabus) permettant la 
    
   -Implementation du projet :
   
-   -Coloner le projet via la commande git colone key dans C:\xampp\htdocs
+   -Cloner le projet via la commande git clone key dans C:\xampp\htdocs
     
    -Lancer le web Server XAMPP
     
@@ -38,6 +38,6 @@ L’ESIEA souhaite se doter d’un outil 100% en ligne (syllabus) permettant la 
    
    -lancer la commande php artisant serve 
    
-   -vous pouvez se situer dans votre web Browser    http://localhost:8080 et vous pouvez lancer le projet
+   -vous pouvez vous situer dans votre web Browser    http://localhost:8080 et vous pouvez lancer le projet
    
-   -pour consulter la base de donner vous pouvez lancer mysql avec Xampp
+   -pour consulter la base de données vous pouvez lancer mysql avec Xampp
